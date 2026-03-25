@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bavanikawb-code.github.io/SEO-1/sitemap.xml
